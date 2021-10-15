@@ -12,7 +12,7 @@
   <div class="container-fluid">
     <h2>Menu - Links to the example:</h2>
     <nav class="navbar navbar-expand-lg  navbar-light bg-light">
-        <div class="container">
+        <div class="container-fluid">
             <div class="navbar-nav">
             
                 <ul class="nav nav-pills nav-fill" > 
